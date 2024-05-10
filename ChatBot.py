@@ -6,7 +6,7 @@ import google.generativeai as genai
 import getpass
 
 # Obtenção da chave de API de forma segura
-api_key = getpass.getpass('AIzaSyAa9xpgiGjF-IZNXnXSHy_uOR-tL2VeDOc')
+api_key = getpass.getpass('SECRET_KEY')
 
 # Configuração do SDK
 genai.configure(api_key=api_key)
