@@ -1,2 +1,2 @@
 # Projeto_ChatBot_Gemini
-O ChatBot com Inteligência Artificial é um projeto para criar uma interface de comunicação automatizada, capaz de interagir com usuários de forma eficaz e natural.
+O ChatBot com Inteligência Artificial é um projeto para criar uma interface de comunicação automatizada, capaz de interagir com usuários de forma eficaz e natural. Ele fornecerá respostas inteligentes, personalizadas e cobrirá uma ampla variedade de tópicos. O objetivo é proporcionar uma experiência de usuário agradável, oferecendo suporte, informações e entretenimento de maneira acessível e conveniente.
